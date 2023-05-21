@@ -1,0 +1,7 @@
+name: BungeeChannels
+main: mrfix1033.bungeechannels.BungeeChannels
+api-version: 1.13
+author: mrfix1033
+version: 1
+commands:
+  bb: {}
